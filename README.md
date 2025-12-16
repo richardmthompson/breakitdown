@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/breakitdown-icon.png" alt="Break It Down" width="400"/>
+<img src="assets/breakitdown-logo.png" alt="Break It Down" width="400"/>
 
 # Break It Down
 
