@@ -1,9 +1,17 @@
-# Break It Down - Transform Overwhelming AI Responses
+<div align="center">
+
+<img src="assets/breakitdown-icon.png" alt="Break It Down" width="400"/>
+
+# Break It Down
+
+### Transform Overwhelming AI Responses into Digestible Conversations
 
 Stop drowning in AI responses. Start having conversations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+</div>
 
 ## The Problem
 
